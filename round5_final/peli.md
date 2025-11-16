@@ -1,4 +1,4 @@
-# Final Project Proposal: [Project Title]
+# Final Project Proposal: Peli
 
 
 **Team Name**: Peli
